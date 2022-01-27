@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning about machine learning in regard to predictive analytics
 - 🌱 I’m currently learning PowerBI, Apache Airflow, AWS services (Quicksight)
 - 💞️ I’m looking to collaborate on big data projects
-- 📫 How to reach me ... maybe not now - but here is good.
 - 👽 This is an alien
 
 <!---
