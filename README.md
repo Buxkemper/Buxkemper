@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Buxkemper
 - 👀 I’m interested in learning about machine learning in regard to predictive analytics
 - 🌱 I’m currently learning PowerBI, Apache Airflow, AWS services (Quicksight)
-- 💞️ I’m looking to collaborate on big data projects
 - 👽 This is an alien
 
 <!---
